@@ -69,8 +69,8 @@ The project includes two Looker Studio reports for data visualization and analys
 ## Links
 - GitHub Repository: https://github.com/Dp1997-Cloud/time-series-forcasting
 - Looker Reports:
-  - ![Report 1: https://lookerstudio.google.com/reporting/7eb64f89-e097-4a5d-82f3-e92c8a7c9636](Looker_Reports/Picture2.png)
-  - ![Report 2: https://lookerstudio.google.com/reporting/51db085a-d098-4935-a345-990d21d3c6be](Looker_Reports/Picture3.png)
+   ![Report 1: https://lookerstudio.google.com/reporting/7eb64f89-e097-4a5d-82f3-e92c8a7c9636](Looker_Reports/Picture2.png)
+   ![Report 2: https://lookerstudio.google.com/reporting/51db085a-d098-4935-a345-990d21d3c6be](Looker_Reports/Picture3.png)
 
 ## Contributing
 1. Fork the repository
