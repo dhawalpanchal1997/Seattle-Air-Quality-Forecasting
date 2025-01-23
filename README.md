@@ -16,20 +16,6 @@ The project uses the following tables from the EPA historical air quality datase
 - wind_daily_summary
 - temperature_daily_summary
 
-## Project Structure
-```
-├── models/
-│   ├── staging/
-│   │   ├── stg_pm25_daily.sql
-│   │   ├── stg_temperature_daily.sql
-│   │   └── stg_wind_speed_daily.sql
-│   └── marts/
-│       └── seattle_air_quality_daily.sql
-├── analysis/
-│   └── time_series_model.sql
-└── README.md
-```
-
 ## Setup Instructions
 
 ### 1. GCP Setup
